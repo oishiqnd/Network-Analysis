@@ -1,7 +1,6 @@
 
 
-![](https://media2.giphy.com/media/eljCVpMrhepUSgZaVP/giphy.gif?cid=ecf05e47roeyx3xiks27nitcflsujrbb00rrh6mmq7gc2n90&ep=v1_gifs_search&rid=giphy.gif&ct=g)
-
+![](https://media2.giphy.com/media/eljCVpMrhepUSgZaVP/giphy.gif)
 
 # Analysis of Epidemiological Models
 
