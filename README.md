@@ -1,5 +1,3 @@
-
-
 ![](https://media2.giphy.com/media/eljCVpMrhepUSgZaVP/giphy.gif)
 
 # Analysis of Epidemiological Models
