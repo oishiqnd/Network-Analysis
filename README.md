@@ -1,4 +1,4 @@
-![](https://media2.giphy.com/media/eljCVpMrhepUSgZaVP/giphy.gif)
+![](https://github.com/oishiqnd/Network-Analysis/blob/main/giphy.gif)
 
 # Analysis of Epidemiological Models
 
